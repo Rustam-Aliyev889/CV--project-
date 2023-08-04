@@ -90,7 +90,7 @@ header {
 }
 
 .logo {
-    background: url("../CV\(prg\)/rosie.jpg");
+    background: url("rosie.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
